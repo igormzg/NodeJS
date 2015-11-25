@@ -1,0 +1,16 @@
+{
+  "name": "NodeJS",
+  "version": "0.0.0",
+  "description": "NodeJS",
+  "main": "app.js",
+  "author": {
+    "name": "igorm",
+    "email": ""
+  },
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^3.4.4",
+    "jade": "*",
+    "stylus": "^0.52.4"
+  }
+}
