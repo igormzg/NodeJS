@@ -5,12 +5,13 @@
   "main": "app.js",
   "author": {
     "name": "igorm",
-    "email": ""
+    "email": "igor.mzg@gmail.com"
   },
   "dependencies": {
     "ejs": "^2.3.4",
     "express": "^3.4.4",
     "jade": "*",
-    "stylus": "^0.52.4"
+    "stylus": "^0.52.4",
+    "mysql": "^2.9.0"
   }
 }
